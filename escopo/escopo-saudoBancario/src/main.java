@@ -7,6 +7,7 @@ public class main {
         
         minhaConta.sacar(200.0);
         minhaConta.sacar(900.0);
+        minhaConta.sacar(900.0);
     }
     
 }
