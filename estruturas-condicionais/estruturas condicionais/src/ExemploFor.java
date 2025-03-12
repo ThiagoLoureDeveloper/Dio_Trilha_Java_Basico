@@ -15,7 +15,7 @@ public class ExemploFor {
         }*/
         
         
-        /*for each */
+        /*foreach */
         String alunos[] = {"Thiago", "julia", "Juliana", "Eduardo"};
 
         for( String aluno : alunos){
